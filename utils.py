@@ -396,8 +396,8 @@ async def get_shortlink(link):
                     return data['shortenedUrl']
                 else:
                     logger.error(f"Error: {data['message']}")
-                    return f'https://{URL_SHORTENR_WEBSITE}/api?api={URL_SHORTNER_WEBSITE_API}&link={link}'
+                    return f'https://{https://adrinolinks.in/}/api?api={47f903cbd4a39337a743c6db3467ef6b2894a5bcI}&link={link}'
 
     except Exception as e:
         logger.error(e)
-        return f'{URL_SHORTENR_WEBSITE}/api?api={URL_SHORTNER_WEBSITE_API}&link={link}'
+        return f'{https://adrinolinks.in/E}/api?api={47f903cbd4a39337a743c6db3467ef6b2894a5bc}&link={link}'
